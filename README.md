@@ -2,7 +2,7 @@
 
 # ☕ Java Virtual Machine (JVM) Feita em C
 
-Um projeto acadêmico de Sistemas Operacionais e Linguagens (SOL) para criar um visualizador de Bytecode e um *runtime* rudimentar para o Java, totalmente implementado na linguagem C.
+Um projeto acadêmico de Software Básico (SB) para criar um visualizador de Bytecode e um *runtime* rudimentar para o Java, totalmente implementado na linguagem C.
 
 -----
 
