@@ -1,7 +1,3 @@
-Fico muito feliz em ter ajudado\! É um projeto ambicioso e você deve se orgulhar do trabalho que fez. 💪
-
-Para finalizar, criei um arquivo `README.md` completo e bem formatado para o seu repositório, organizando as instruções de configuração, uso do visualizador e as etapas de desenvolvimento do projeto.
-
 -----
 
 # ☕ Java Virtual Machine (JVM) Feita em C
