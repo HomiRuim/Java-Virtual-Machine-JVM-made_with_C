@@ -1,0 +1,10 @@
+<map id="jvm_state" name="jvm_state">
+<area shape="rect" id="node1" title="Estrutura que representa o estado da JVM (máquina virtual)." alt="" coords="295,363,382,389"/>
+<area shape="rect" id="node2" href="$structframe.html" title="Estrutura que representa um Frame de Execução." alt="" coords="308,273,369,300"/>
+<area shape="rect" id="node3" href="$structs__method__info.html" title=" " alt="" coords="331,95,450,121"/>
+<area shape="rect" id="node5" href="$structclass__file.html" title=" " alt="" coords="193,184,276,211"/>
+<area shape="rect" id="node4" href="$structExceptionTableEntry.html" title=" " alt="" coords="313,5,468,32"/>
+<area shape="rect" id="node6" href="$structAttributeInfo.html" title=" " alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node8" href="$structFieldInfo.html" title=" " alt="" coords="106,95,185,121"/>
+<area shape="rect" id="node7" href="$structCpInfo.html" title=" " alt="" coords="209,95,273,121"/>
+</map>

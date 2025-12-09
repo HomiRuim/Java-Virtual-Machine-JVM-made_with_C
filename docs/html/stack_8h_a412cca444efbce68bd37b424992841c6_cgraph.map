@@ -1,0 +1,4 @@
+<map id="jvm_push_frame" name="jvm_push_frame">
+<area shape="rect" id="node1" title="Empilha um novo frame na call stack." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$jvm_8h.html#a0713b69eb415e22f4417919bac572a5e" title="Inicializa um novo Frame de Execução." alt="" coords="184,5,279,32"/>
+</map>

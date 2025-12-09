@@ -1,0 +1,4 @@
+<map id="frame_new" name="frame_new">
+<area shape="rect" id="node1" title="Inicializa um novo Frame de Execução." alt="" coords="184,5,279,32"/>
+<area shape="rect" id="node2" href="$stack_8c.html#a412cca444efbce68bd37b424992841c6" title="Empilha um novo frame na call stack." alt="" coords="5,5,136,32"/>
+</map>

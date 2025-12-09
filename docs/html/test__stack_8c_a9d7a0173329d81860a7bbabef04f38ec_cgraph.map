@@ -1,0 +1,10 @@
+<map id="test_integration" name="test_integration">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,131,159"/>
+<area shape="rect" id="node2" href="$stack_8c.html#a7646451dd2739573fc17f5591af95aa8" title="Obtém o valor de uma variável local." alt="" coords="179,5,305,32"/>
+<area shape="rect" id="node3" href="$stack_8c.html#a5b2b620892707e44c739b444bc94ab31" title="Desempilha um valor de 32 bits da pilha de operandos." alt="" coords="196,56,288,83"/>
+<area shape="rect" id="node4" href="$stack_8c.html#a2c298c59e545cf4f4ecad6f8b4dca418" title="Empilha um valor de 32 bits na pilha de operandos." alt="" coords="193,107,291,133"/>
+<area shape="rect" id="node5" href="$stack_8c.html#a54b3f52588036ff6038499391d25bd62" title="Define o valor de uma variável local." alt="" coords="179,157,305,184"/>
+<area shape="rect" id="node6" href="$jvm_8h.html#a9a088efc4b2a4b70e9e6997459abfd7c" title="Libera a memória do estado da JVM." alt="" coords="202,208,282,235"/>
+<area shape="rect" id="node8" href="$jvm_8h.html#a5834bf31a9e5f0dab45edd6f95b56fc6" title="Inicializa o estado da JVM." alt="" coords="201,259,283,285"/>
+<area shape="rect" id="node7" href="$jvm_8c.html#a5d9a6d3a4bc3ef219e60d74a75196885" title="Libera a memória de um Frame." alt="" coords="353,208,448,235"/>
+</map>

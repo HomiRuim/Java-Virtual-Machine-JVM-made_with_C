@@ -1,0 +1,4 @@
+<map id="jvm_pop_frame" name="jvm_pop_frame">
+<area shape="rect" id="node1" title="Desempilha o frame atual da call stack." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node2" href="$jvm_8h.html#a5d9a6d3a4bc3ef219e60d74a75196885" title="Libera a memória de um Frame." alt="" coords="177,5,272,32"/>
+</map>

@@ -1,0 +1,81 @@
+Com certeza! Segue a lista detalhada das edições que realizei em cada arquivo, organizadas por componente:
+
+1. Arquivos de Configuração e Fluxo Principal
+
+Arquivo
+Edições Realizadas
+makefile
+1. Adicionado src/jvm.c e src/execute.c à lista de arquivos-fonte (APP_SRCS).  
+2. Adicionado include/jvm.h e include/execute.h como dependências para a compilação dos objetos (.o).
+
+
+
+src/main.c
+1. Incluídos os novos headers jvm.h e execute.h.  
+2. Implementada a lógica para suprimir a saída (json_classfile ou print_classfile) quando a nova flag --reader-mode (options->output_mode == OUTPUT_MODE_READER) está ativa, atendendo ao requisito de "leitor, ou como exibidor".
+
+
+
+2. Configuração da Linha de Comando (Flags)
+Arquivo
+Edições Realizadas
+
+
+
+include/cli.h
+1. Adicionado o novo modo de saída OUTPUT_MODE_READER ao enum OutputMode.  
+2. Adicionada a flag booleana is_reader_mode à estrutura CliOptions.
+
+
+
+src/cli.c
+1. Adicionada a descrição da nova flag --reader-mode na função print_cli_usage.  
+2. Inicializada a flag options->is_reader_mode = false na função set_default_options.  
+3. Implementado o parsing para --reader-mode na função parse_cli_options, definindo options->is_reader_mode = true e options->output_mode = OUTPUT_MODE_READER.
+
+
+
+3. Estruturas da JVM (Frame e Memória)
+Arquivo
+Edições Realizadas
+
+
+
+include/jvm.h
+Novo Arquivo. Definição das estruturas de tempo de execução:  
+1.  Slot: typedef u4 Slot; (para slots de 32 bits).  
+2.  Frame: Estrutura com Slot slots_data[] (Flexible Array Member) para variáveis locais e pilha de operandos em um único bloco contíguo, atendendo ao requisito de "Frame com um tamanho só".  
+3.  JVMState: Estrutura para a pilha de Frames (call_stack), sem a "Área de Referências".
+
+
+
+src/jvm.c
+Novo Arquivo. Implementação das funções de gerenciamento de memória:  
+1.  frame_new: Aloca o Frame e o array de Slot em um único calloc, inicializando os ponteiros local_vars, operand_stack e stack_top para gerenciar o acesso dentro do array contíguo.  
+2.  frame_free: Simplesmente chama free(frame), confirmando que "Free() para desalocar já é suficiente".  
+3.  jvm_new e jvm_free: Funções de inicialização e liberação do estado da JVM.
+4. Execução e Opcodes (Ponteiros de Função)
+
+
+
+Arquivo
+Edições Realizadas
+include/execute.h
+
+
+
+Novo Arquivo. Definição da interface de execução:  
+1.  OpcodeHandler: typedef int (*OpcodeHandler)(Frame *frame); (assinatura do ponteiro de função).  
+2.  opcode_handlers[256]: Declaração da tabela de ponteiros de função.  
+3.  init_opcode_handlers: Função para inicializar a tabela.  
+4.  execute_main_method: Função principal de execução.
+
+
+
+src/execute.c
+
+
+Novo Arquivo. Implementação da execução:  
+1.  Funções handle_nop, handle_iconst_0, handle_bipush (e handle_unimplemented) como exemplos de manipuladores de opcode.  
+2.  init_opcode_handlers: Inicializa a tabela opcode_handlers com os ponteiros de função, substituindo o switch.   
+3.  execute_main_method: Contém o loop principal de execução que usa a tabela de ponteiros de função para despachar o código, e inclui a lógica de busca (com TODOs) e a limpeza do Frame.

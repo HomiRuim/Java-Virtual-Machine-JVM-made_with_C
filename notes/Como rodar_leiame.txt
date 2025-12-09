@@ -1,0 +1,9 @@
+Para compilar: make
+
+./visualizador-bytecode [opções] <caminho/para/arquivo.class>
+
+Modo exibidor (com saída formatada): ./visualizador-bytecode tests/samples/Example.class
+
+Modo Exibidor (saída JSON): ./visualizador-bytecode --json tests/samples/Example.class
+
+Modo Leitor (apenas análise - sem saída): ./visualizador-bytecode --reader-mode tests/samples/Example.class

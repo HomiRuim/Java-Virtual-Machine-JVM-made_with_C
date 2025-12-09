@@ -1,0 +1,20 @@
+<map id="test_debug_functions" name="test_debug_functions">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,167,260"/>
+<area shape="rect" id="node2" href="$stack_8c.html#abf67bd80c6bd2f192af89b6e63d2bf8f" title="Imprime o estado de um frame (para depuração)." alt="" coords="223,107,362,133"/>
+<area shape="rect" id="node10" href="$stack_8c.html#a2c298c59e545cf4f4ecad6f8b4dca418" title="Empilha um valor de 32 bits na pilha de operandos." alt="" coords="243,157,342,184"/>
+<area shape="rect" id="node11" href="$stack_8c.html#a54b3f52588036ff6038499391d25bd62" title="Define o valor de uma variável local." alt="" coords="229,208,356,235"/>
+<area shape="rect" id="node12" href="$jvm_8h.html#a9a088efc4b2a4b70e9e6997459abfd7c" title="Libera a memória do estado da JVM." alt="" coords="253,259,333,285"/>
+<area shape="rect" id="node14" href="$jvm_8h.html#a5834bf31a9e5f0dab45edd6f95b56fc6" title="Inicializa o estado da JVM." alt="" coords="252,309,333,336"/>
+<area shape="rect" id="node15" href="$stack_8c.html#a646d8ec746941b09a9248207efc087c2" title="Imprime toda a call stack (para depuração)." alt="" coords="215,360,371,387"/>
+<area shape="rect" id="node3" href="$classfile_8h.html#a91d7739d49c750a47784a9bef0ebcda2" title=" " alt="" coords="657,157,728,184"/>
+<area shape="rect" id="node4" href="$attributes_8h.html#ac7342368d6b86ada548959ffb01c6655" title=" " alt="" coords="419,107,565,133"/>
+<area shape="rect" id="node5" href="$attributes_8c.html#a54361b6f9d0a3606a2baf5aa415963fc" title=" " alt="" coords="618,107,767,133"/>
+<area shape="rect" id="node6" href="$attributes_8c.html#ab9b9866772fd42763096b48212c09bf3" title=" " alt="" coords="613,56,772,83"/>
+<area shape="rect" id="node7" href="$io_8h.html#a842fea91dfcd786a8d48d325694dce84" title=" " alt="" coords="820,5,915,32"/>
+<area shape="rect" id="node8" href="$io_8h.html#a9c6d67d42836ed0cf5825a71a3833624" title=" " alt="" coords="830,56,905,83"/>
+<area shape="rect" id="node9" href="$io_8h.html#ab1c080ee6f1a3bf48357850426161a77" title=" " alt="" coords="830,107,905,133"/>
+<area shape="rect" id="node13" href="$jvm_8c.html#a5d9a6d3a4bc3ef219e60d74a75196885" title="Libera a memória de um Frame." alt="" coords="445,233,539,260"/>
+<area shape="rect" id="node16" href="$classfile_8h.html#adf3c548bbc82232d12c44231da44e91e" title=" " alt="" coords="427,284,557,311"/>
+<area shape="rect" id="node17" href="$stack_8c.html#abc6a3e675f83eddadcb25918703fd240" title="Obtém informações sobre os limites de um frame." alt="" coords="425,335,559,361"/>
+<area shape="rect" id="node18" href="$stack_8c.html#a3882d137d399fe378144b2424359a0f5" title="Retorna o número de elementos na pilha de operandos." alt="" coords="424,385,560,412"/>
+</map>

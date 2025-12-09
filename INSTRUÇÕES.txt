@@ -1,0 +1,60 @@
+----------------------------------------------- NO WSL ----------------------------------------------------------------------------------------------
+
+sudo apt install make
+sudo apt install gcc
+sudo apt install default-jdk (para rodar o Javac)
+
+make clean
+make
+
+Visualizador:
+./visualizador-bytecode tests/samples/Example.class                 // Normal
+./visualizador-bytecode tests/samples/Example.class --json          // Saída JSON
+./visualizador-bytecode tests/samples/Example.class --no-code       // Oculta Bytecodes
+./visualizador-bytecode tests/samples/Example.class --verbose       // Mostra os logs
+
+Uso: visualizador-bytecode [opcoes] <arquivo.class>
+
+Opcoes principais:
+  --pretty         Formata a saida de forma legivel (padrao).
+  --json           Formata a saida como um objeto JSON.
+  --no-code        Oculta o disassembly do bytecode dos metodos.
+  --verbose        Mostra logs de depuracao no stderr.
+  --help, -h       Mostra esta mensagem de ajuda.
+
+
+Para testar o Javac:
+javac TestIntegration.java
+./visualizador-bytecode TestIntegration.class -debug
+
+---------------------------------------- DAQUI PRA BAIXO RODAR NO WINDOWS APENAS --------------------------------------------------------------------
+
+Parte 1:
+gcc -c -std=c99 -Wall -Wextra -Iinclude src/stack.c -o src/stack.o
+gcc -std=c99 -Iinclude -o test_stack src/test_stack.c src/stack.c src/jvm.c src/classfile.c src/attributes.c src/io.c
+./test_stack
+
+
+Parte 2:
+./teststacks
+
+
+Parte 3:
+gcc -g test_pessoa3.c exec_flow.c memory_manager_mock.c class_manager_mock.c -o test_flow
+./test_flow
+
+
+Parte 4:
+gcc -g test_pessoa4.c heap_manager.c class_loader_mock.c -o test_heap_manager
+./test_heap_manager
+
+
+
+
+
+
+
+
+
+// IGNORAR!
+gcc -g src/test_pessoa3.c src/exec_flow.c src/memory_manager_mock.c src/class_manager_mock.c -o test_flow

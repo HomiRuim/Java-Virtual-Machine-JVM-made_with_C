@@ -1,0 +1,7 @@
+<map id="test_local_variables" name="test_local_variables">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,157,108"/>
+<area shape="rect" id="node2" href="$stack_8c.html#a7646451dd2739573fc17f5591af95aa8" title="Obtém o valor de uma variável local." alt="" coords="223,5,350,32"/>
+<area shape="rect" id="node3" href="$stack_8c.html#a78bbd0527958869ca0abd1d722aa5349" title="Obtém um valor de 64 bits de uma variável local." alt="" coords="205,56,368,83"/>
+<area shape="rect" id="node4" href="$stack_8c.html#a54b3f52588036ff6038499391d25bd62" title="Define o valor de uma variável local." alt="" coords="223,107,350,133"/>
+<area shape="rect" id="node5" href="$stack_8c.html#a465999fd45525846fc418b350c0358b2" title="Define um valor de 64 bits em uma variável local." alt="" coords="206,157,367,184"/>
+</map>

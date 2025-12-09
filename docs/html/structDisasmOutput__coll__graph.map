@@ -1,0 +1,4 @@
+<map id="DisasmOutput" name="DisasmOutput">
+<area shape="rect" id="node1" title="Estrutura de output que contem todas as instrucoes de um metodo." alt="" coords="18,95,133,121"/>
+<area shape="rect" id="node2" href="$structDisasmInstruction.html" title="Representa uma instrucao de bytecode apos o desassembleamento." alt="" coords="5,5,145,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="frame_push_long" name="frame_push_long">
+<area shape="rect" id="node1" title="Empilha um valor de 64 bits (Long/Double) na pilha de operandos." alt="" coords="305,5,440,32"/>
+<area shape="rect" id="node2" href="$test__stack_8c.html#a6634b713b33a71a613a49c6332a24421" title=" " alt="" coords="108,5,257,32"/>
+<area shape="rect" id="node3" href="$test__stack_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,60,32"/>
+</map>

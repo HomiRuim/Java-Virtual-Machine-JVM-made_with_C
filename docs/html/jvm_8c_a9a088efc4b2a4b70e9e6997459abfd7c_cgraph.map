@@ -1,0 +1,4 @@
+<map id="jvm_free" name="jvm_free">
+<area shape="rect" id="node1" title="Libera a memória do estado da JVM." alt="" coords="5,5,85,32"/>
+<area shape="rect" id="node2" href="$jvm_8c.html#a5d9a6d3a4bc3ef219e60d74a75196885" title="Libera a memória de um Frame." alt="" coords="133,5,228,32"/>
+</map>

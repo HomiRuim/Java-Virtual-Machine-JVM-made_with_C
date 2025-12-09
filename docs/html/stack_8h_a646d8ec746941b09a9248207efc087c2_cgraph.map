@@ -1,0 +1,7 @@
+<map id="jvm_print_call_stack" name="jvm_print_call_stack">
+<area shape="rect" id="node1" title="Imprime toda a call stack (para depuração)." alt="" coords="5,81,161,108"/>
+<area shape="rect" id="node2" href="$classfile_8h.html#adf3c548bbc82232d12c44231da44e91e" title=" " alt="" coords="213,5,342,32"/>
+<area shape="rect" id="node3" href="$classfile_8h.html#a91d7739d49c750a47784a9bef0ebcda2" title=" " alt="" coords="242,56,313,83"/>
+<area shape="rect" id="node4" href="$stack_8c.html#abc6a3e675f83eddadcb25918703fd240" title="Obtém informações sobre os limites de um frame." alt="" coords="211,107,344,133"/>
+<area shape="rect" id="node5" href="$stack_8c.html#a3882d137d399fe378144b2424359a0f5" title="Retorna o número de elementos na pilha de operandos." alt="" coords="209,157,345,184"/>
+</map>

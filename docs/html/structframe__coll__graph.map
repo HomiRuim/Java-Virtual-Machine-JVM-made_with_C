@@ -1,0 +1,9 @@
+<map id="frame" name="frame">
+<area shape="rect" id="node1" title="Estrutura que representa um Frame de Execução." alt="" coords="308,273,369,300"/>
+<area shape="rect" id="node2" href="$structs__method__info.html" title=" " alt="" coords="331,95,450,121"/>
+<area shape="rect" id="node4" href="$structclass__file.html" title=" " alt="" coords="193,184,276,211"/>
+<area shape="rect" id="node3" href="$structExceptionTableEntry.html" title=" " alt="" coords="313,5,468,32"/>
+<area shape="rect" id="node5" href="$structAttributeInfo.html" title=" " alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node7" href="$structFieldInfo.html" title=" " alt="" coords="106,95,185,121"/>
+<area shape="rect" id="node6" href="$structCpInfo.html" title=" " alt="" coords="209,95,273,121"/>
+</map>

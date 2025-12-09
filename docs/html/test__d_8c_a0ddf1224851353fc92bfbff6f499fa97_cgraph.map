@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$disasm_8h.html#a173eb9dc15ae02e46a9df7d4a214188a" title="Executa o desassembleamento do Bytecode contido em um CodeAttribute." alt="" coords="108,5,269,32"/>
+<area shape="rect" id="node3" href="$disasm_8h.html#aaffeb343d40df5c365bd142f6bb1a581" title="Libera a memoria alocada pela estrutura DisasmOutput e suas strings." alt="" coords="113,56,264,83"/>
+</map>

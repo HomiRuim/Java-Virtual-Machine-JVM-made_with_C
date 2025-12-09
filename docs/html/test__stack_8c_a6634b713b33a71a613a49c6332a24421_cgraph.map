@@ -1,0 +1,10 @@
+<map id="test_operand_stack" name="test_operand_stack">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,155,184"/>
+<area shape="rect" id="node2" href="$stack_8c.html#ade861c04f3c0761bbbd8528960f4ba8d" title="Verifica se a pilha de operandos está vazia." alt="" coords="203,5,373,32"/>
+<area shape="rect" id="node3" href="$stack_8c.html#a0258d0012f036712b2b931a24bf0efb7" title="Obtém o valor no topo da pilha sem desempilhar." alt="" coords="238,56,338,83"/>
+<area shape="rect" id="node4" href="$stack_8c.html#a5b2b620892707e44c739b444bc94ab31" title="Desempilha um valor de 32 bits da pilha de operandos." alt="" coords="242,107,334,133"/>
+<area shape="rect" id="node5" href="$stack_8c.html#ad2ce703a3ad64e4defd4b28cb533d5ec" title="Desempilha um valor de 64 bits (Long/Double) da pilha de operandos." alt="" coords="225,157,351,184"/>
+<area shape="rect" id="node6" href="$stack_8c.html#a2c298c59e545cf4f4ecad6f8b4dca418" title="Empilha um valor de 32 bits na pilha de operandos." alt="" coords="239,208,337,235"/>
+<area shape="rect" id="node7" href="$stack_8c.html#acbe6fb74811c7321e27f9f2e3bb8a9e3" title="Empilha um valor de 64 bits (Long/Double) na pilha de operandos." alt="" coords="221,259,355,285"/>
+<area shape="rect" id="node8" href="$stack_8c.html#a3882d137d399fe378144b2424359a0f5" title="Retorna o número de elementos na pilha de operandos." alt="" coords="220,309,356,336"/>
+</map>

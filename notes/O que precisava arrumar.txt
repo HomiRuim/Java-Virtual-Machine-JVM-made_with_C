@@ -1,0 +1,21 @@
+Flags: funcionar como leitor, ou como exibidor
+
+Nao usar switch para case das funçoes. Usar ponteiro,  e passar as informações de outra forma.
+
+Sem jac colect
+
+Java nao defini a estrutura do objeto.
+
+Sem area para referencia, é para ter area para gerenciar os ponteiros
+
+Frame - colocar o ponteiro com vertor de variaveis locais com indicação pra as variaveis locais e para pilha de operando
+
+Frame com um tamanho só
+
+Saber como que eh feito os envoke(complicado)
+
+Area de referências o prof nao sabe oq eh, ent vamo tirar
+
+Saber a ordem de execução,  carregar estrutura de classes que precisa ser carregadas
+
+Free() para desalocar ja eh suficiente

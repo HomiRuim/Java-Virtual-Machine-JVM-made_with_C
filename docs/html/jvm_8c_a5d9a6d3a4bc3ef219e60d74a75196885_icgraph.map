@@ -1,0 +1,9 @@
+<map id="frame_free" name="frame_free">
+<area shape="rect" id="node1" title="Libera a memória de um Frame." alt="" coords="489,31,584,57"/>
+<area shape="rect" id="node2" href="$jvm_8h.html#a9a088efc4b2a4b70e9e6997459abfd7c" title="Libera a memória do estado da JVM." alt="" coords="339,56,419,83"/>
+<area shape="rect" id="node7" href="$stack_8c.html#ad2830fc83d093a17cd0ed7821769302f" title="Desempilha o frame atual da call stack." alt="" coords="317,5,441,32"/>
+<area shape="rect" id="node3" href="$test__stack_8c.html#a6a2bbdf6a9b3f247d5e1430311c10faa" title=" " alt="" coords="129,5,248,32"/>
+<area shape="rect" id="node5" href="$test__stack_8c.html#a8249a8b63ab724c3c897500d96cb186f" title=" " alt="" coords="108,56,269,83"/>
+<area shape="rect" id="node6" href="$test__stack_8c.html#a9d7a0173329d81860a7bbabef04f38ec" title=" " alt="" coords="126,107,251,133"/>
+<area shape="rect" id="node4" href="$test__stack_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,60,83"/>
+</map>

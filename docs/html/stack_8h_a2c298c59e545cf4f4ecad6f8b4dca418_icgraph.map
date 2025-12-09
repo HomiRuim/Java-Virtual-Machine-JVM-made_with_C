@@ -1,0 +1,7 @@
+<map id="frame_push" name="frame_push">
+<area shape="rect" id="node1" title="Empilha um valor de 32 bits na pilha de operandos." alt="" coords="317,56,416,83"/>
+<area shape="rect" id="node2" href="$test__stack_8c.html#a8249a8b63ab724c3c897500d96cb186f" title=" " alt="" coords="108,5,269,32"/>
+<area shape="rect" id="node4" href="$test__stack_8c.html#a9d7a0173329d81860a7bbabef04f38ec" title=" " alt="" coords="126,56,251,83"/>
+<area shape="rect" id="node5" href="$test__stack_8c.html#a6634b713b33a71a613a49c6332a24421" title=" " alt="" coords="114,107,263,133"/>
+<area shape="rect" id="node3" href="$test__stack_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,60,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="resolve_class_name_to_string" name="resolve_class_name_to_string">
+<area shape="rect" id="node1" title="Resolve apenas o nome da classe (usado por opcodes como NEW, CHECKCAST)." alt="" coords="163,5,317,47"/>
+<area shape="rect" id="node2" href="$json_8h.html#a9ac7894a550ba73fe429c914c7a216f2" title="Gera uma representação JSON da estrutura ClassFile, respeitando as flags de CLI." alt="" coords="5,13,115,39"/>
+</map>

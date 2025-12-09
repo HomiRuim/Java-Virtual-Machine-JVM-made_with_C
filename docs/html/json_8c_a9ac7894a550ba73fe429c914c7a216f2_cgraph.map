@@ -1,0 +1,4 @@
+<map id="json_classfile" name="json_classfile">
+<area shape="rect" id="node1" title="Gera uma representação JSON da estrutura ClassFile, respeitando as flags de CLI." alt="" coords="5,13,115,39"/>
+<area shape="rect" id="node2" href="$resolve_8h.html#a5eaec9ad67dc83318f368911c63723e2" title="Resolve apenas o nome da classe (usado por opcodes como NEW, CHECKCAST)." alt="" coords="163,5,317,47"/>
+</map>

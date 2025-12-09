@@ -1,0 +1,11 @@
+<map id="test_call_stack" name="test_call_stack">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,124,159"/>
+<area shape="rect" id="node2" href="$stack_8c.html#a2524f220b8e07975f03a0b090945a523" title="Retorna o frame atual (topo da call stack)." alt="" coords="192,5,339,32"/>
+<area shape="rect" id="node3" href="$stack_8c.html#ac213965c7df7e11fc24748b16589838d" title="Retorna o número de frames na call stack." alt="" coords="197,56,333,83"/>
+<area shape="rect" id="node4" href="$jvm_8h.html#a9a088efc4b2a4b70e9e6997459abfd7c" title="Libera a memória do estado da JVM." alt="" coords="225,107,305,133"/>
+<area shape="rect" id="node6" href="$stack_8c.html#a77da2feb253627a5915c9e0c969d8d99" title="Verifica se a call stack está vazia." alt="" coords="172,157,359,184"/>
+<area shape="rect" id="node7" href="$jvm_8h.html#a5834bf31a9e5f0dab45edd6f95b56fc6" title="Inicializa o estado da JVM." alt="" coords="225,208,306,235"/>
+<area shape="rect" id="node8" href="$stack_8c.html#ad2830fc83d093a17cd0ed7821769302f" title="Desempilha o frame atual da call stack." alt="" coords="203,259,327,285"/>
+<area shape="rect" id="node5" href="$jvm_8c.html#a5d9a6d3a4bc3ef219e60d74a75196885" title="Libera a memória de um Frame." alt="" coords="407,107,501,133"/>
+<area shape="rect" id="node9" href="$jvm_8h.html#a5d9a6d3a4bc3ef219e60d74a75196885" title="Libera a memória de um Frame." alt="" coords="407,259,501,285"/>
+</map>

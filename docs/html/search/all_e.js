@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['object_252',['Object',['../structObject.html',1,'']]],
+  ['objectref_253',['ObjectRef',['../class__manager_8h.html#a3b62cc6f19cb1eba7cb4401a1c7600fb',1,'ObjectRef():&#160;class_manager.h'],['../heap__manager_8h.html#a850b425d87c8794441204c868a397eb0',1,'ObjectRef():&#160;heap_manager.h'],['../include_2jvm__types_8h.html#a3b62cc6f19cb1eba7cb4401a1c7600fb',1,'ObjectRef():&#160;jvm_types.h'],['../src_2jvm__types_8h.html#a3b62cc6f19cb1eba7cb4401a1c7600fb',1,'ObjectRef():&#160;jvm_types.h']]],
+  ['offset_254',['offset',['../structBuffer.html#a8225560369baaa20af09426b586280cc',1,'Buffer']]],
+  ['offset_5fu2_255',['OFFSET_U2',['../disasm_8c.html#a82ea7b62e7ad0d98368a3f6c510a6741a9e12fb1b941bacd1d1f7f8e0225da79e',1,'disasm.c']]],
+  ['offset_5fu4_256',['OFFSET_U4',['../disasm_8c.html#a82ea7b62e7ad0d98368a3f6c510a6741a86e9a5c7ec33831711c8208329e33fc2',1,'disasm.c']]],
+  ['ok_257',['OK',['../classfile_8c.html#aba51915c87d64af47fb1cc59348961c9',1,'OK():&#160;classfile.c'],['../base_8h.html#a67a0db04d321a74b7e7fcfd3f1a3f70ba2bc49ec37d6a5715dd23e85f1ff5bb59',1,'OK():&#160;base.h']]],
+  ['opcode_5fhandlers_258',['opcode_handlers',['../execute_8c.html#a8b878c03928698668c2ef2a42615643a',1,'opcode_handlers():&#160;execute.c'],['../execute_8h.html#a8b878c03928698668c2ef2a42615643a',1,'opcode_handlers():&#160;execute.c']]],
+  ['opcodeargtype_259',['OpcodeArgType',['../disasm_8c.html#a82ea7b62e7ad0d98368a3f6c510a6741',1,'disasm.c']]],
+  ['opcodehandler_260',['OpcodeHandler',['../execute_8h.html#a2468267ba9f769191dbf73f1ab5205a9',1,'execute.h']]],
+  ['opcodeinfo_261',['OpcodeInfo',['../structOpcodeInfo.html',1,'']]],
+  ['operand_5fstack_262',['operand_stack',['../structframe.html#af825f0d839114d155f372f225a229484',1,'frame::operand_stack()'],['../structs__stack__frame.html#a568c42a14781084d2e93f2bd88cc4135',1,'s_stack_frame::operand_stack()']]],
+  ['output_5fmode_263',['output_mode',['../structCliOptions.html#a9080341cd2290678d92c080bbaefb3e3',1,'CliOptions']]],
+  ['output_5fmode_5fjson_264',['OUTPUT_MODE_JSON',['../cli_8h.html#a479782c1ca16b739d6a4d4ea5bfea33ca62824ca9b44c5420cf368b861cedb46a',1,'cli.h']]],
+  ['output_5fmode_5fpretty_265',['OUTPUT_MODE_PRETTY',['../cli_8h.html#a479782c1ca16b739d6a4d4ea5bfea33ca688efc5a98d397fe9cdc7451a98d5a49',1,'cli.h']]],
+  ['output_5fmode_5freader_266',['OUTPUT_MODE_READER',['../cli_8h.html#a479782c1ca16b739d6a4d4ea5bfea33caaa9b0653924abd2fd2d72eae15069b79',1,'cli.h']]],
+  ['outputmode_267',['OutputMode',['../cli_8h.html#a479782c1ca16b739d6a4d4ea5bfea33c',1,'cli.h']]]
+];
