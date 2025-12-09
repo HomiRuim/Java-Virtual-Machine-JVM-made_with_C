@@ -101,7 +101,7 @@ Testa operações básicas de manipulação de pilha (assumindo que o binário `
 ./teststacks
 ```
 
-### Parte 3: Teste de Fluxo de Execução (Pessoa 3)
+### Parte 3: Teste de Fluxo de Execução
 
 Testa o fluxo de execução principal e as interações com o gerenciador de memória:
 
@@ -110,7 +110,7 @@ gcc -g test_pessoa3.c exec_flow.c memory_manager_mock.c class_manager_mock.c -o 
 ./test_flow
 ```
 
-### Parte 4: Teste de Gerenciamento de Heap (Pessoa 4)
+### Parte 4: Teste de Gerenciamento de Heap
 
 Testa a implementação do gerenciador de memória (Heap), que simula a alocação de objetos:
 
